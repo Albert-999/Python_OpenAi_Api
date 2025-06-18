@@ -1,2 +1,2 @@
-You must add you're api key and local path of files
+You must add your api key and local path of files
 # Python_OpenAi_Api
